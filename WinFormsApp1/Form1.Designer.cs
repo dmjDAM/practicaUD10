@@ -101,11 +101,11 @@ namespace WinFormsApp1
             // label3
             // 
             this.label3.AutoSize = true;
-            this.label3.Location = new System.Drawing.Point(509, 69);
+            this.label3.Location = new System.Drawing.Point(524, 69);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(52, 15);
+            this.label3.Size = new System.Drawing.Size(37, 15);
             this.label3.TabIndex = 7;
-            this.label3.Text = "Teléfono";
+            this.label3.Text = "Móvil";
             // 
             // label4
             // 
