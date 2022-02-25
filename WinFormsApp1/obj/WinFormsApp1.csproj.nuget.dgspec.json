@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Descargas\\Proyectos\\Entornos de desarrollo\\practicaUD10\\WinFormsApp1\\WinFormsApp1.csproj": {}
+    "C:\\Users\\Dani\\source\\repos\\dmjDAM\\practicaUD10\\WinFormsApp1\\WinFormsApp1.csproj": {}
   },
   "projects": {
-    "E:\\Descargas\\Proyectos\\Entornos de desarrollo\\practicaUD10\\WinFormsApp1\\WinFormsApp1.csproj": {
+    "C:\\Users\\Dani\\source\\repos\\dmjDAM\\practicaUD10\\WinFormsApp1\\WinFormsApp1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Descargas\\Proyectos\\Entornos de desarrollo\\practicaUD10\\WinFormsApp1\\WinFormsApp1.csproj",
+        "projectUniqueName": "C:\\Users\\Dani\\source\\repos\\dmjDAM\\practicaUD10\\WinFormsApp1\\WinFormsApp1.csproj",
         "projectName": "WinFormsApp1",
-        "projectPath": "E:\\Descargas\\Proyectos\\Entornos de desarrollo\\practicaUD10\\WinFormsApp1\\WinFormsApp1.csproj",
+        "projectPath": "C:\\Users\\Dani\\source\\repos\\dmjDAM\\practicaUD10\\WinFormsApp1\\WinFormsApp1.csproj",
         "packagesPath": "C:\\Users\\Dani\\.nuget\\packages\\",
-        "outputPath": "E:\\Descargas\\Proyectos\\Entornos de desarrollo\\practicaUD10\\WinFormsApp1\\obj\\",
+        "outputPath": "C:\\Users\\Dani\\source\\repos\\dmjDAM\\practicaUD10\\WinFormsApp1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Dani\\AppData\\Roaming\\NuGet\\NuGet.Config",
