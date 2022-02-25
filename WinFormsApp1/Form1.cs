@@ -17,5 +17,18 @@ namespace WinFormsApp1
             InitializeComponent();
         }
 
+        private void button1_Click(object sender, EventArgs e)
+        {
+            string nombre, apellido, teléfono;
+            string guardar;
+
+            nombre = tNombre.Text;
+            apellido = tApellidos.Text;
+            teléfono = tTelefono.Text;
+
+            guardar = " " + nombre + " " + apellido + " " + teléfono;
+
+            tListaSocios.Text = guardar;
+        }
     }
 }
